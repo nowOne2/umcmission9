@@ -9,7 +9,7 @@ import umc.study.domain.Mission;
 import umc.study.domain.mapping.MemberMission;
 import umc.study.dto.memberMissionDto.MemberMissionRequestDto;
 import umc.study.repository.MemberMissionRepository.MemberMissionRepository;
-import umc.study.repository.MemberRepository;
+import umc.study.repository.MemberRepository.MemberRepository;
 import umc.study.repository.MissionRepository.MissionRepository;
 
 @Service

@@ -8,7 +8,7 @@ import umc.study.domain.Member;
 import umc.study.domain.Review;
 import umc.study.domain.Store;
 import umc.study.dto.reviewDto.ReviewRequestDto;
-import umc.study.repository.MemberRepository;
+import umc.study.repository.MemberRepository.MemberRepository;
 import umc.study.repository.ReviewRepository.ReviewRepository;
 import umc.study.repository.StoreRepository.StoreRepository;
 
